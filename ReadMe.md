@@ -1,6 +1,6 @@
-#AnonXmerge
+# AnonXmerge
 
-##Pengaturan
+## Pengaturan
 ```
 Buka Run Command/Console (Win + R)
 Tulis gpedit.msc (Enter)
